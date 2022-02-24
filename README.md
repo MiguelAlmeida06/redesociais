@@ -12,4 +12,3 @@ Redes sociais-Miguel Almeida
 	<a href="https://www.tiktok.com/@miguel_alves_almeida"><img width="170px"src="tiktok.png"></a>
 	<a href="https://twitter.com/Miguel_Alves06"><img width="200px"src="twitter.png"></a>
 </body>
-</html>
