@@ -6,7 +6,6 @@ Redes sociais-Miguel Almeida
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Redes Sociais-Miguel Almeida</title>
 </head>
 <body>	
 	<a href="https://www.facebook.com/profile.php?id=100008984980547"><img width="200px"src="facebook.png"></a>
